@@ -75,3 +75,7 @@ sentinel/
 - `numpy` — pixel math
 - `tkinter` — GUI (built into Python)
 - `winsound` — alert beeps (built into Windows Python, no install needed)
+
+## preview
+
+<img width="854" height="663" alt="image" src="https://github.com/user-attachments/assets/7a79b3e1-5111-4cec-926d-24b00acb679b" />
